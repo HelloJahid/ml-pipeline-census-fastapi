@@ -1,0 +1,24 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# NOTE: model/*.pkl, data/census.csv, screenshots/*.png and
+# slice_output.txt are intentionally NOT ignored because the rubric
+# requires them to be committed to GitHub.
